@@ -4,7 +4,7 @@
 
 ## 安装
 ```bash
-npm install -g veraverto
+npm install -g veravertoo
 ```
 
 ## 使用
@@ -12,6 +12,6 @@ npm install -g veraverto
 进入小程序根目录，执行命令，例如
 
 ```bash
-veraverto -t swan
+veravertoo -t swan
 ```
-将当前小程序转换为百度小程序，使用``veraverto -h``获得更多帮助
+将当前小程序转换为百度小程序，使用``veravertoo -h``获得更多帮助
