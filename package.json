@@ -1,0 +1,40 @@
+{
+  "name": "mini-program-convert",
+  "version": "1.0.0",
+  "description": "convert weixin mini program to other mini program or invert",
+  "main": "main.js",
+  "bin": {
+    "veraverto": "./bin/commander.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "babel",
+    "AST"
+  ],
+  "author": "Dewyzee",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/parser": "^7.3.1",
+    "babel-generator": "^6.26.1",
+    "babel-template": "^6.26.0",
+    "babel-traverse": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "fs-extra": "^7.0.1",
+    "himalaya": "^1.1.0",
+    "postcss": "^7.0.14",
+    "postcss-copy-assets": "^0.3.1",
+    "prettier": "^1.16.4"
+  },
+  "dependencies": {
+    "postcss-import": "^12.0.1"
+  }
+}
