@@ -1,10 +1,10 @@
 {
-  "name": "veraverto",
+  "name": "veravertoo",
   "version": "1.0.2",
   "description": "convert weixin mini program to other mini program or invert",
   "main": "main.js",
   "bin": {
-    "veraverto": "./bin/commander.js"
+    "veravertoo": "./bin/commander.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
