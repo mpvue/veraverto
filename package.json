@@ -1,5 +1,5 @@
 {
-  "name": "mini-program-convert",
+  "name": "veraverto",
   "version": "1.0.0",
   "description": "convert weixin mini program to other mini program or invert",
   "main": "main.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/mpvue/veraverto.git"
   },
   "keywords": [
     "node",

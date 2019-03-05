@@ -2,15 +2,9 @@
 
 > 小程序互转工具，支持主流四大平台(微信、百度、头条、支付宝)
 
-## 环境搭建
+## 安装
 ```bash
-git clone git@xxxx
-
-cd mini-program-convert
-
-npm i
-
-npm link
+npm install -g veraverto
 ```
 
 ## 使用
