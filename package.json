@@ -1,6 +1,6 @@
 {
   "name": "veraverto",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "convert weixin mini program to other mini program or invert",
   "main": "main.js",
   "bin": {
