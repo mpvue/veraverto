@@ -1,6 +1,6 @@
 {
   "name": "veravertoo",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "convert weixin mini program to other mini program or invert",
   "main": "main.js",
   "bin": {
@@ -21,6 +21,10 @@
   "author": "dewyzee",
   "license": "MIT",
   "devDependencies": {
+    
+  },
+  "dependencies": {
+    "postcss-import": "^12.0.1",
     "@babel/parser": "^7.3.1",
     "babel-generator": "^6.26.1",
     "babel-template": "^6.26.0",
@@ -33,8 +37,5 @@
     "postcss": "^7.0.14",
     "postcss-copy-assets": "^0.3.1",
     "prettier": "^1.16.4"
-  },
-  "dependencies": {
-    "postcss-import": "^12.0.1"
   }
 }
